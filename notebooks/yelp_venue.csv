@@ -1,0 +1,101 @@
+name,country,city,categories,review_count,rating,near_station
+De Danú,FR,Toulouse,"[{'alias': 'irish_pubs', 'title': 'Irish Pub'}]",84,4.0,00197 - CASERNE PERIGNON
+La Dynamo,FR,Toulouse,"[{'alias': 'danceclubs', 'title': 'Dance Clubs'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'bars', 'title': 'Bars'}]",31,4.5,00197 - CASERNE PERIGNON
+Au Poêle de la Bête,FR,Toulouse,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'pubs', 'title': 'Pubs'}]",18,4.5,00197 - CASERNE PERIGNON
+L'Heure du Singe,FR,Toulouse,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",17,4.5,00197 - CASERNE PERIGNON
+Puerto Habana,FR,Toulouse,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'danceclubs', 'title': 'Dance Clubs'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",33,3.5,00197 - CASERNE PERIGNON
+Au Fut et à Mesure,FR,Toulouse,"[{'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",30,4.0,00197 - CASERNE PERIGNON
+Le Seventies,FR,Toulouse,"[{'alias': 'poolhalls', 'title': 'Pool Halls'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",39,3.5,00197 - CASERNE PERIGNON
+The Wild Rose,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}]",16,4.5,00197 - CASERNE PERIGNON
+Le Delicatessen,FR,Toulouse,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",34,4.0,00197 - CASERNE PERIGNON
+Les Complices,FR,Toulouse,"[{'alias': 'french', 'title': 'French'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",11,4.5,00197 - CASERNE PERIGNON
+Rest'O Jazz,FR,Toulouse,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'french', 'title': 'French'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",40,3.5,00197 - CASERNE PERIGNON
+The Petit London,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}]",21,4.0,00197 - CASERNE PERIGNON
+Le Pery,FR,Toulouse,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",41,3.5,00197 - CASERNE PERIGNON
+Hugo Délices,FR,Toulouse,"[{'alias': 'tea', 'title': 'Tea Rooms'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",8,4.5,00197 - CASERNE PERIGNON
+Les Tilleuls,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'brasseries', 'title': 'Brasseries'}]",15,3.5,00197 - CASERNE PERIGNON
+Le Palacio de la Salsa,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'cuban', 'title': 'Cuban'}]",7,4.0,00197 - CASERNE PERIGNON
+La Suite,FR,Toulouse,"[{'alias': 'french', 'title': 'French'}, {'alias': 'bars', 'title': 'Bars'}]",11,3.5,00197 - CASERNE PERIGNON
+Le Commerce,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}]",11,3.5,00197 - CASERNE PERIGNON
+1862 Arty Bar & Club,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'danceclubs', 'title': 'Dance Clubs'}]",14,3.5,00197 - CASERNE PERIGNON
+La Mecanique des Fluides,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",10,4.0,00197 - CASERNE PERIGNON
+De Danú,FR,Toulouse,"[{'alias': 'irish_pubs', 'title': 'Irish Pub'}]",84,4.0,00213 - PUJOL - CHAUBET
+La Dynamo,FR,Toulouse,"[{'alias': 'danceclubs', 'title': 'Dance Clubs'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'bars', 'title': 'Bars'}]",31,4.5,00213 - PUJOL - CHAUBET
+Puerto Habana,FR,Toulouse,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'danceclubs', 'title': 'Dance Clubs'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",33,3.5,00213 - PUJOL - CHAUBET
+Le Seventies,FR,Toulouse,"[{'alias': 'poolhalls', 'title': 'Pool Halls'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",39,3.5,00213 - PUJOL - CHAUBET
+Rest'O Jazz,FR,Toulouse,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'french', 'title': 'French'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",40,3.5,00213 - PUJOL - CHAUBET
+Les Tilleuls,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'brasseries', 'title': 'Brasseries'}]",15,3.5,00213 - PUJOL - CHAUBET
+Le Palacio de la Salsa,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'cuban', 'title': 'Cuban'}]",7,4.0,00213 - PUJOL - CHAUBET
+La Suite,FR,Toulouse,"[{'alias': 'french', 'title': 'French'}, {'alias': 'bars', 'title': 'Bars'}]",11,3.5,00213 - PUJOL - CHAUBET
+El Cubano Club,FR,Toulouse,"[{'alias': 'cuban', 'title': 'Cuban'}, {'alias': 'danceclubs', 'title': 'Dance Clubs'}, {'alias': 'lounges', 'title': 'Lounges'}]",5,4.0,00213 - PUJOL - CHAUBET
+Limelight Bar,FR,Toulouse,"[{'alias': 'gaybars', 'title': 'Gay Bars'}]",10,4.0,00213 - PUJOL - CHAUBET
+Le Tartacs,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",2,5.0,00213 - PUJOL - CHAUBET
+Le Bear's Bar,FR,Toulouse,"[{'alias': 'gaybars', 'title': 'Gay Bars'}]",7,4.0,00213 - PUJOL - CHAUBET
+Baraka Jeux,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",3,4.0,00213 - PUJOL - CHAUBET
+La Salsathèque,FR,Toulouse,"[{'alias': 'dance_schools', 'title': 'Dance Schools'}, {'alias': 'bars', 'title': 'Bars'}]",1,5.0,00213 - PUJOL - CHAUBET
+Le O Q'Sec,FR,Toulouse,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}]",2,4.5,00213 - PUJOL - CHAUBET
+Black Pearl,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",3,3.5,00213 - PUJOL - CHAUBET
+Chez Nous,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",1,5.0,00213 - PUJOL - CHAUBET
+Animaé Bar,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",1,5.0,00213 - PUJOL - CHAUBET
+Flute,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",1,4.0,00213 - PUJOL - CHAUBET
+Bar des Crêtes,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",1,3.0,00213 - PUJOL - CHAUBET
+Fat Cat,FR,Toulouse,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",33,4.5,00055 - SAINT-SERNIN - G. ARNOULT
+La Cale Sèche,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",80,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+The Coffee Pot,FR,Toulouse,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",18,4.5,00055 - SAINT-SERNIN - G. ARNOULT
+Breughel L'Ancien,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}]",28,4.5,00055 - SAINT-SERNIN - G. ARNOULT
+La Gourmandine,FR,Toulouse,"[{'alias': 'french', 'title': 'French'}, {'alias': 'bars', 'title': 'Bars'}]",89,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+Chez Tonton - Pastis Ô Maître,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",116,3.5,00055 - SAINT-SERNIN - G. ARNOULT
+Don Pancho,FR,Toulouse,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",44,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+The George And Dragon Pub,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",43,3.5,00055 - SAINT-SERNIN - G. ARNOULT
+I Love Yo,FR,Toulouse,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'cafes', 'title': 'Cafes'}]",30,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+Evangelina,FR,Toulouse,"[{'alias': 'french', 'title': 'French'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",60,3.5,00055 - SAINT-SERNIN - G. ARNOULT
+Le Saint-Jérôme,FR,Toulouse,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",64,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+The Melting Pot Pub,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",37,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+Boca,FR,Toulouse,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'bars', 'title': 'Bars'}]",20,4.5,00055 - SAINT-SERNIN - G. ARNOULT
+Grand Café de l'Opéra,FR,Toulouse,"[{'alias': 'brasseries', 'title': 'Brasseries'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'french', 'title': 'French'}]",46,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+La Maison,FR,Toulouse,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",62,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+La Compagnie Française,FR,Toulouse,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}]",57,3.5,00055 - SAINT-SERNIN - G. ARNOULT
+Le Café de la Concorde,FR,Toulouse,"[{'alias': 'cafes', 'title': 'Cafes'}]",23,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+Bar L'Autan,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'french', 'title': 'French'}]",16,4.5,00055 - SAINT-SERNIN - G. ARNOULT
+Barrique et Bourrique,FR,Toulouse,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}]",30,4.0,00055 - SAINT-SERNIN - G. ARNOULT
+Le Wallace,FR,Toulouse,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",128,3.5,00055 - SAINT-SERNIN - G. ARNOULT
+De Danú,FR,Toulouse,"[{'alias': 'irish_pubs', 'title': 'Irish Pub'}]",84,4.0,00195 - LARROUSSE - RIEUX
+La Maison,FR,Toulouse,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",62,4.0,00195 - LARROUSSE - RIEUX
+Puerto Habana,FR,Toulouse,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'danceclubs', 'title': 'Dance Clubs'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",33,3.5,00195 - LARROUSSE - RIEUX
+The Frog & Rosbif,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'burgers', 'title': 'Burgers'}]",94,3.5,00195 - LARROUSSE - RIEUX
+Le Wallace,FR,Toulouse,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",128,3.5,00195 - LARROUSSE - RIEUX
+Au Poêle de la Bête,FR,Toulouse,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'pubs', 'title': 'Pubs'}]",18,4.5,00195 - LARROUSSE - RIEUX
+La Dynamo,FR,Toulouse,"[{'alias': 'danceclubs', 'title': 'Dance Clubs'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'bars', 'title': 'Bars'}]",31,4.5,00195 - LARROUSSE - RIEUX
+L'Heure du Singe,FR,Toulouse,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",17,4.5,00195 - LARROUSSE - RIEUX
+Le Seventies,FR,Toulouse,"[{'alias': 'poolhalls', 'title': 'Pool Halls'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",39,3.5,00195 - LARROUSSE - RIEUX
+Le Saint-Jérôme,FR,Toulouse,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",64,4.0,00195 - LARROUSSE - RIEUX
+Les Complices,FR,Toulouse,"[{'alias': 'french', 'title': 'French'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",11,4.5,00195 - LARROUSSE - RIEUX
+Au Fut et à Mesure,FR,Toulouse,"[{'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",30,4.0,00195 - LARROUSSE - RIEUX
+Officina Gusto,FR,Toulouse,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'french', 'title': 'French'}]",17,4.5,00195 - LARROUSSE - RIEUX
+Le Delicatessen,FR,Toulouse,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",34,4.0,00195 - LARROUSSE - RIEUX
+Café Populaire,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",80,3.5,00195 - LARROUSSE - RIEUX
+The Wild Rose,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}]",16,4.5,00195 - LARROUSSE - RIEUX
+Barrique et Bourrique,FR,Toulouse,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}]",30,4.0,00195 - LARROUSSE - RIEUX
+The Petit London,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}]",21,4.0,00195 - LARROUSSE - RIEUX
+Connexion Live,FR,Toulouse,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",46,3.5,00195 - LARROUSSE - RIEUX
+Rest'O Jazz,FR,Toulouse,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'french', 'title': 'French'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",40,3.5,00195 - LARROUSSE - RIEUX
+Le Dubliners,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'irish_pubs', 'title': 'Irish Pub'}]",49,4.5,00280 - CHARBONNIERE
+Le Studio Hop,FR,Toulouse,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'dancestudio', 'title': 'Dance Studios'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}]",3,4.5,00280 - CHARBONNIERE
+Le Saint Roch Café,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",1,3.0,00280 - CHARBONNIERE
+Le Dubliners,FR,Toulouse,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'irish_pubs', 'title': 'Irish Pub'}]",49,4.5,00156 - METRO EMPALOT
+Le Stadium,FR,Toulouse,"[{'alias': 'stadiumsarenas', 'title': 'Stadiums & Arenas'}, {'alias': 'football', 'title': 'Soccer'}]",24,4.0,00156 - METRO EMPALOT
+Samouraï Lounge Bar,FR,Toulouse,"[{'alias': 'lounges', 'title': 'Lounges'}]",24,3.5,00156 - METRO EMPALOT
+Café Barrière,FR,Toulouse,"[{'alias': 'cafes', 'title': 'Cafes'}]",16,3.0,00156 - METRO EMPALOT
+Le Studio Hop,FR,Toulouse,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'dancestudio', 'title': 'Dance Studios'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}]",3,4.5,00156 - METRO EMPALOT
+Brasserie Marie,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",3,4.0,00156 - METRO EMPALOT
+La Centrale,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",9,3.0,00156 - METRO EMPALOT
+Le C Café,FR,Toulouse,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}]",2,4.0,00156 - METRO EMPALOT
+Le Bout's,FR,Toulouse,"[{'alias': 'french', 'title': 'French'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'brasseries', 'title': 'Brasseries'}]",2,3.5,00156 - METRO EMPALOT
+Le Saint Roch Café,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",1,3.0,00156 - METRO EMPALOT
+La Cantine du Busca,FR,Toulouse,"[{'alias': 'brasseries', 'title': 'Brasseries'}, {'alias': 'cafes', 'title': 'Cafes'}]",3,3.5,00156 - METRO EMPALOT
+Le Café de Paris,FR,Toulouse,"[{'alias': 'restaurants', 'title': 'Restaurants'}, {'alias': 'bars', 'title': 'Bars'}]",4,3.5,00242 -  RAIMBAUD - COLETTE
+Le Seize,FR,Toulouse,"[{'alias': 'brasseries', 'title': 'Brasseries'}, {'alias': 'bars', 'title': 'Bars'}]",3,3.0,00242 -  RAIMBAUD - COLETTE
+Le Seizième,FR,Toulouse,"[{'alias': 'bars', 'title': 'Bars'}]",1,4.0,00242 -  RAIMBAUD - COLETTE
+Karting Café,FR,Toulouse,"[{'alias': 'cafes', 'title': 'Cafes'}]",2,3.0,00242 -  RAIMBAUD - COLETTE
+Les Oliviers,FR,Toulouse,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'pizza', 'title': 'Pizza'}]",1,5.0,00224 - CAMPUS SUPAERO
+UrbanSoccer,FR,Toulouse,"[{'alias': 'football', 'title': 'Soccer'}]",1,4.0,00224 - CAMPUS SUPAERO
