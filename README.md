@@ -22,6 +22,10 @@ My main goal in this project is to review and analyze data from different APIs a
 ## Results
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
 
+As noted in the eda notebook, the main difference between the foursquare API data and yelp API data was one of quantity over substance. The foursquare data was able to provide a much larger amount of results returned for venues near bike stations (comparative to the yelp API), but did not offer as much detail (review counts, ratings, etc.) about the venues returned as the yelp API did. 
+
+Using the yelp API data, we built a regression model between the amount of reviews that a venue recieved with the amount of bikes that were in use ('empty_slots') at the bike station nearest to that venue. We would expect that as a venue is more popular (measured by review count), the amount of bikes in use around that venue similarly increases. Unfortunately, our model shows that we can not assume that this relationship is not statistically significant.  
+
 ## Challenges 
 (discuss challenges you faced in the project)
 
